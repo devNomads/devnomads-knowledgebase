@@ -9,6 +9,9 @@ The process should be familiar to developers:
 
 After a short evaluation your changes will be merged and become publicly available. 
 
+## Markdown
+[Liferay documentation for working with Markdown](https://github.com/liferay/liferay-docs/blob/master/guidelines/liferay-documentation-tools.markdown)
+
 ## Rules
 
 We have set some basic rules that new content should comply with:
