@@ -1,3 +1,3 @@
 # Remote Work [](id=remote-work)
 
-Bla bla bla
+Remote work can be challenging...

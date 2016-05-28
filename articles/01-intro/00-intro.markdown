@@ -1,5 +1,5 @@
-# About the Knowledge Base [](id=about-the-knowledge-base)
+# About {dev}Nomads Resources [](id=about-resources)
 
-This knowledge base ...
+Welcome to the {dev}Nomads Resource pages. Plan is that these pages will become some kind of knowledge base for {dev}Nomads.
 
-![{dev}Nomads logo.](../../images/devnomads-logo.png)
+![{dev}Nomads](../../images/devnomads-logo.png)
