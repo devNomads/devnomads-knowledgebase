@@ -2,4 +2,4 @@
 
 This knowledge base ...
 
-![{dev}Nomads logo.](./images/devnomads-logo.png)
+![{dev}Nomads logo.](../../images/devnomads-logo.png)
