@@ -5,3 +5,16 @@ This repository will contain the knowledge base as found on the [{dev}Nomads web
 If you want to contribute to the {dev}Nomads knowledge base, then feel free to fork this repo and send a pull request. 
 
 The syntax to be used is markdown, which should be familiar for people using GitHub. [Markdown](https://help.github.com/articles/markdown-basics/) allows you to write using an easy-to-read, easy-to-write plain text format, which then converts to valid HTML for viewing on GitHub.
+
+[Learn more about how to contribute](articles/01-intro/01-contribute.markdown)
+
+## Sections
+
+1. Remote work:
+
+    [Job Sites](articles/02-remote-work/01-job-sites.markdown) # 
+    [Tools](articles/02-remote-work/02-tools.markdown)
+    
+2. [Retreats](articles/03-retreats/00-intro.markdown)
+
+3. [Training](articles/04-training/00-intro.markdown)
