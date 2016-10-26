@@ -1,4 +1,4 @@
-# Digital Nomad Retreats [](id=retreats)
+# Co-travel for Digital Nomad [](id=cotravel)
 
 * [Hacker Paradise](http://www.hackerparadise.org/)
 * [Refuga](https://refuga.com)
