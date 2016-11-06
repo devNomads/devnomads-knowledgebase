@@ -14,3 +14,9 @@ The search function of Stack Overflow Jobs has a checkbox called "Allows Remote"
 [Working Nomads](http://www.workingnomads.co)
 A curated list of remote jobs, for the modern working nomad.
 We curate the best digital jobs for those looking to work remotely.
+
+# Freelance 
+
+[Tekki](https://gotekki.com)
+An invite-only community where startups meet top freelance tech talents.
+iOS app
