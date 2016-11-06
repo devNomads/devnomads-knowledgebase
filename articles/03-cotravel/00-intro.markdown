@@ -10,3 +10,8 @@
 * [Fargo Startup House](http://www.fargostartuphouse.com)
 * [Startup Home](http://startuphome.io)
 * [Startup House](http://www.startuphouse.com)
+
+# co-living for developers
+
+* [HackerCouch](https://hackercouch.com)
+Couchsurfing for Hackers, by Hackers
