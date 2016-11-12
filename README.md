@@ -19,4 +19,4 @@ The syntax to be used is [Markdown](https://help.github.com/articles/markdown-ba
 
 3. [Training](articles/04-training/00-intro.markdown)
 
-4. [Fun stuff](articles/05-funstuff/)
+4. [Fun stuff](articles/05-funstuff/00-intro.markdown)
