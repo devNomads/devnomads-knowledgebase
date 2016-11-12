@@ -1,5 +1,5 @@
 # {dev}Nomads Knowledge Base [](id=knowledgebase)
 
-Welcome to the {dev}Nomads Knowledge Base. Plan is that these pages will become a currated resource collection for the {dev}Nomads wbesite.
+Welcome to the {dev}Nomads Knowledge Base, a currated resource collection for the {dev}Nomads website.
 
 ![{dev}Nomads](../../images/devnomads-logo.png)
