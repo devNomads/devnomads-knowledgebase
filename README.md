@@ -10,13 +10,15 @@ The syntax to be used is [Markdown](https://help.github.com/articles/markdown-ba
 
 ## Sections
 
-1. Remote work:
+1. [Intro](articles/01-intro/00-intro.markdown)
+
+2. Remote work:
 
     * [Job Sites](articles/02-remote-work/01-job-sites.markdown)
     * [Tools](articles/02-remote-work/02-tools.markdown)
     
-2. [co-travel / co-living](articles/03-cotravel/00-intro.markdown)
+3. [co-travel / co-living](articles/03-cotravel/00-intro.markdown)
 
-3. [Training](articles/04-training/00-intro.markdown)
+4. [Training](articles/04-training/00-intro.markdown)
 
-4. [Fun stuff](articles/05-funstuff/00-intro.markdown)
+5. [Fun stuff](articles/05-funstuff/00-intro.markdown)
