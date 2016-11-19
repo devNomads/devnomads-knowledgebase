@@ -7,6 +7,11 @@
 * [Remote Year](http://www.remoteyear.com)
 * [YonderWork](http://www.yonderwork.com)
 
+## Co-Living directories
+
+* [coliving.com](https://coliving.com)
+* [coliving.org](http://coliving.org)
+
 ## Co-Living for Startups
 
 * [Fargo Startup House](http://www.fargostartuphouse.com)
