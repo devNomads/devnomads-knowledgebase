@@ -1,6 +1,6 @@
 # Co-Travel / Co-Living [](id=cotravel)
 
-## Co-Travel for Digital Nomads
+## Co-Travel for digital nomads
 
 * [Hacker Paradise](http://www.hackerparadise.org/)
 * [Refuga](https://refuga.com)
@@ -12,13 +12,13 @@
 * [coliving.com](https://coliving.com)
 * [coliving.org](http://coliving.org)
 
-## Co-Living for Startups
+## Co-Living for startups
 
 * [Fargo Startup House](http://www.fargostartuphouse.com)
 * [Startup Home](http://startuphome.io)
 * [Startup House](http://www.startuphouse.com)
 
-## co-living for developers
+## Co-Living for developers
 
 * [HackerCouch](https://hackercouch.com)
 Couchsurfing for Hackers, by Hackers
