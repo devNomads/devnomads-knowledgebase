@@ -11,6 +11,7 @@
 
 * [coliving.com](https://coliving.com)
 * [coliving.org](http://coliving.org)
+* [CoWoLi](http://cowoli.com) : Coworking meets Coliving - Find your digital nomad house 
 
 ## Co-Living for startups
 
