@@ -20,6 +20,7 @@
 
 ## Co-Living for startups
 
+* [Coworking Camp](http://coworking.camp) : Founders in the sun in Turkey
 * [Fargo Startup House](http://www.fargostartuphouse.com)
 * [Project Getaway](http://www.projectgetaway.com)
 * [Startup Getaway](http://startupgetaway.org)
