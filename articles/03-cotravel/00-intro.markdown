@@ -15,6 +15,7 @@
 
 ## Co-Living organisations
 
+* [Outpost](http://www.outpost-asia.com) : Coworking and Coliving in Ubud, Bali
 * [Roam](https://www.roam.co) : Coliving and Coworking - several locations around the world
 
 ## Co-Living for startups
