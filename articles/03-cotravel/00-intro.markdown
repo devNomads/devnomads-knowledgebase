@@ -13,9 +13,15 @@
 * [coliving.org](http://coliving.org)
 * [CoWoLi](http://cowoli.com) : Coworking meets Coliving - Find your digital nomad house 
 
+## Co-Living organisations
+
+* [Roam](https://www.roam.co) : Coliving and Coworking - several locations around the world
+
 ## Co-Living for startups
 
 * [Fargo Startup House](http://www.fargostartuphouse.com)
+* [Project Getaway](http://www.projectgetaway.com)
+* [Startup Getaway](http://startupgetaway.org)
 * [Startup Home](http://startuphome.io)
 * [Startup House](http://www.startuphouse.com)
 
