@@ -22,6 +22,7 @@
 
 * [Coworking Camp](http://coworking.camp) : Founders in the sun in Turkey
 * [Fargo Startup House](http://www.fargostartuphouse.com)
+* [Outpost Crew](http://www.outpostcrew.com/)
 * [Project Getaway](http://www.projectgetaway.com)
 * [Startup Getaway](http://startupgetaway.org)
 * [Startup Home](http://startuphome.io)
