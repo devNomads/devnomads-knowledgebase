@@ -18,8 +18,9 @@
 * [Outpost](http://www.outpost-asia.com) : Coworking and Coliving in Ubud, Bali
 * [Roam](https://www.roam.co) : Coliving and Coworking - several locations around the world
 
-## Co-Living for startups
+## Retreats for Entrepreneurs
 
+* [Coworkparadise](http://www.coworkparadise.com/) Mastermind Business Retreat for Entrepreneurs
 * [Coworking Camp](http://coworking.camp) : Founders in the sun in Turkey
 * [Fargo Startup House](http://www.fargostartuphouse.com)
 * [Outpost Crew](http://www.outpostcrew.com/)
