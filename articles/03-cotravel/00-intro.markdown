@@ -1,5 +1,7 @@
 # Co-Travel / Co-Living [](id=cotravel)
 
+[Steve Lacey](https://twitter.com/stevelacey) created this awesome website listing all coworkations: [Coworkations.co](https://coworkations.co/)
+
 ## Co-Travel for digital nomads
 
 * [Hacker Paradise](http://www.hackerparadise.org/)
