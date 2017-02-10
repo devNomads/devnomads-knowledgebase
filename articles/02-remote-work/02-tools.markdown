@@ -4,10 +4,10 @@
 
 [Slack](https://slack.com/)
 Where work* happens.
-*Whatever work means for you, Slack brings all the pieces and
+*Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done
 
 [Zoom](https://zoom.us/)
-#1 Video Conferencing and Web Conferencing Service
+Video Conferencing and Web Conferencing Service
 
 ## Time tracking
 [Hubstaff](http://www.hubstaff.com)
