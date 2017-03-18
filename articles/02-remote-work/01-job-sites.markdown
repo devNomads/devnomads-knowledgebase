@@ -3,6 +3,10 @@
 [Hubstaff Talent](https://talent.hubstaff.com/) 
 is a 100% free resource for companies looking to find remote talent across the globe. No fees, no markups, no middlemen.
 
+[Remotejo](http://remotejo.com/)
+Work From Anywhere
+Latest remote jobs for designers, developers and content creators
+
 [remote OK](http://remoteok.io/)
 Think of it like a search engine for ALL remote jobs out there. It aggregates all remote jobs from lots of different sources and then if you'd like to apply for a job, it links you back to the source.
 
